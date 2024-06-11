@@ -33,6 +33,7 @@ En este repositorio podemos encontrar varios archivos:
  - **Captura de Pantalla**: se encuentra la imagen de la ejecución del código en el cluster.
  
  ## Ejecución
+ Necesario tener descargados los archivos de biciMad 2019.
   - Opción 1: (recomendado para la visualización de los resultados pues cuenta con gráficas y tablas extra)
       - jupyter-notebook
       - Seleccionar Practica_BiciMad.ipynb
